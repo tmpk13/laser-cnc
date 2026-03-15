@@ -2,7 +2,7 @@
 
 
 Using klipper, SV06, and RPI Pico.
-
+(Pico for PWM control, with mosfet for logic level at 5V)
 
 Tested with Arduino Mega.  
 Max micro steps was 3.  
