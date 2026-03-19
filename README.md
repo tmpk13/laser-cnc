@@ -18,6 +18,7 @@ The cable has two PWM wires 1 black 1 yellow which are tied in the 3 pin laser i
 Black(PWM) and red(+) are both connected to a JST style connector.
 White(-) and yellow(PWM) are broken off.
 
+Y axis was choppy while moving. Turning down the acceleration helped from (3000->1000). 
 
 TODO:
 - [ ] Add a distance sensor the the pico that will trigger a endstop.
